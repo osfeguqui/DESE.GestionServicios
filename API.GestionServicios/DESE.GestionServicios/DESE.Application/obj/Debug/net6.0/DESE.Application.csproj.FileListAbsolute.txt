@@ -1,0 +1,15 @@
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\bin\Debug\net6.0\DESE.Application.deps.json
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\bin\Debug\net6.0\DESE.Application.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\bin\Debug\net6.0\DESE.Application.pdb
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\bin\Debug\net6.0\DESE.Domain.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\bin\Debug\net6.0\DESE.Domain.pdb
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.csproj.AssemblyReference.cache
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.AssemblyInfoInputs.cache
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.AssemblyInfo.cs
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.csproj.CoreCompileInputs.cache
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.csproj.CopyComplete
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\refint\DESE.Application.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\DESE.Application.pdb
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Application\obj\Debug\net6.0\ref\DESE.Application.dll

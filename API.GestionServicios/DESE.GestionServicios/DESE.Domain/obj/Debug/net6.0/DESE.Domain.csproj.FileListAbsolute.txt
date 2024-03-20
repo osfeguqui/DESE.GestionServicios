@@ -1,0 +1,11 @@
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\bin\Debug\net6.0\DESE.Domain.deps.json
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\bin\Debug\net6.0\DESE.Domain.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\bin\Debug\net6.0\DESE.Domain.pdb
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\DESE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\DESE.Domain.AssemblyInfoInputs.cache
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\DESE.Domain.AssemblyInfo.cs
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\DESE.Domain.csproj.CoreCompileInputs.cache
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\DESE.Domain.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\refint\DESE.Domain.dll
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\DESE.Domain.pdb
+C:\DESE\Aplicativos\Gestion de Servicios\DESE.GestionServicios\DESE.Domain\obj\Debug\net6.0\ref\DESE.Domain.dll
